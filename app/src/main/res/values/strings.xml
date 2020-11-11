@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BTS</string>
+    <string name="batagor_sultan">Batagor SULTAN (Rp.25.000,-)</string>
+    <string name="batagor_VIP">Batagor VIP (Rp.20.000,-)</string>
+    <string name="es_teh">Teh Panas / Dingin (Rp.3.000,-)</string>
+    <string name="air_meneral">Air Meneral (Rp.3.000,-)</string>
+    <string name="air_jeruk">Air Jeruk Panas / Dingin (Rp.5.000,-)</string>
+    <string name="total_harga_makanan">Total Harga Makanan :</string>
+    <string name="total_harga_minuman">Total Harga Minuman :</string>
+    <string name="total">TOTAL :</string>
+    <string name="bayar">BAYAR : </string>
+    <string name="batagor_rakyat_jelata">Batagor Rakyat Jelata (Rp.10.000,-)</string>
+    <string name="batagor_premiun">Batagor Premiun (Rp.15.000.-)</string>
+    <string name="batagor_sultan_nama">Batagor The Sultan</string>
+    <string name="menu_makanan">Menu - Makanan</string>
+    <string name="bayar_aja">Bayar</string>
+    <string name="_0">0</string>
+</resources>
